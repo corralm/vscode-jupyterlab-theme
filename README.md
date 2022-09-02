@@ -17,7 +17,7 @@ JupyterLab's light theme for Visual Studio Code!
 - Markdown code with single backticks doesn't look good in preview (i.e. `code`)
 
 ## Credits
-This theme was inspired by [Project Jupyter's](https://jupyter.org) JupyterLab. 
+This theme is inspired by [Project Jupyter's](https://jupyter.org) JupyterLab. Icon created by [Freepik](https://www.flaticon.com/free-icons/jupiter).
 
 ## Author
 Author: Miguel Corral Jr.  
