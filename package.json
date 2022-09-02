@@ -2,11 +2,12 @@
   "name": "jupyterlab-light-theme",
   "displayName": "JupyterLab Light Theme",
   "description": "JupyterLab light theme supporting Python and Markdown for Visual Studio Code.",
+  "publisher": "MiguelCorralJr",
   "author": {
     "name": "Miguel Corral Jr"
   },
   "license": "./LICENSE",
-  "icon": "./jupiter.png",
+  "icon": "jupiter.png",
   "repository": "https://github.com/corralm/VSCode-JupyterLab-Light-Theme",
   "homepage": "https://github.com/corralm/VSCode-JupyterLab-Light-Theme#readme",
   "version": "0.0.1",
