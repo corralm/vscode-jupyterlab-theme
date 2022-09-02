@@ -10,7 +10,7 @@
   "icon": "jupiter.png",
   "repository": "https://github.com/corralm/VSCode-JupyterLab-Light-Theme",
   "homepage": "https://github.com/corralm/VSCode-JupyterLab-Light-Theme#readme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.71.0"
   },
