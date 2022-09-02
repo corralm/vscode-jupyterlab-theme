@@ -1,0 +1,21 @@
+{
+  "name": "jupyterlab-light-theme",
+  "displayName": "JupyterLab Light Theme",
+  "description": "JupyterLab light theme supporting Python and Markdown for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JupyterLab Light",
+        "uiTheme": "vs",
+        "path": "./themes/JupyterLab Light-color-theme.json"
+      }
+    ]
+  }
+}
