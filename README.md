@@ -5,7 +5,7 @@ JupyterLab's light theme for Visual Studio Code!
 
 ## Installation
 1. In VS Code, go to Extensions.
-2. Find "JupyterLab Light Theme" and click Install.
+2. Find "jupyterlab-light-theme" and click Install.
 3. Open the Color Theme picker with `⌘K ⌘T` or Preferences > Color Theme.
 4. Select the theme **JupyterLab Light Theme**.
 
