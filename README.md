@@ -1,16 +1,24 @@
-# jupyterlab-light-theme README
+# JupyterLab Light Theme
+JupyterLab's light theme for Visual Studio Code!
 
-## Working with Markdown
+![](./screenshots/vscode_notebook.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
+1. In VS Code, go to Extensions.
+2. Find "JupyterLab Light Theme" and click Install.
+3. Open the Color Theme picker with `⌘K ⌘T` or Preferences > Color Theme.
+4. Select the theme **JupyterLab Light Theme**.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Known Limitations
+- This theme only supports **Python** and **Markdown**.
+- JupyterLab notebooks are visually more compact than in VS Code.
+- Selected cell background remains light gray (same as unselected cells) instead of white.
+- Unsupported color differentiation for markdown list levels.
+- Markdown code with single backticks doesn't look good in preview (i.e. `code`)
 
-## For more information
+## Credits
+This theme was inspired by [Project Jupyter's](https://jupyter.org) JupyterLab. 
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Author
+Author: Miguel Corral Jr.  
+GitHub: https://github.com/corralm
