@@ -43,6 +43,7 @@
 		"statusBar.debuggingForeground": "#fffeff",
 		"statusBarItem.activeBackground": "#b3b3b3",
 		"statusBarItem.hoverBackground": "#b3b3b3",
+		"statusBar.noFolderForeground": "#fffeff",
 	},
 	"tokenColors": [
 // Python
