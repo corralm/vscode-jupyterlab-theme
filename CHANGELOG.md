@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "jupyterlab-light-theme" extension will be documented in this file.
 
+## [0.1.0] - 2022-09-04
+- feat: make status bar foreground white when no is folder open to improve readability
+
 ## [0.0.3] - 2022-09-02
 - Make extension easier to find in the marketplace
 
