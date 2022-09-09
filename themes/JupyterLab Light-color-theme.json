@@ -87,6 +87,7 @@
 				"keyword.operator.comparison.python",
 				"keyword.operator.assignment.python",
 				"keyword.operator.unpacking.parameter.python",
+				"keyword.operator.unpacking.arguments.python",
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -158,6 +159,7 @@
 			"name": "Python: Self Variable & Parameter and Meta",
 			"scope": [
 				"variable.parameter.function.language.special.self.python",
+				"variable.parameter.function.language.special.cls.python",
 				"variable.language.special.self.python",
 				"meta.attribute.python",
 				"meta.function-call.generic.python",
@@ -170,6 +172,7 @@
 			"name": "Python: Decorators",
 			"scope": [
 				"entity.name.function.decorator.python",
+				"meta.function.decorator.python",  // overruled by support.type.python
 			],
 			"settings": {
 				"foreground": "#a922ff"
