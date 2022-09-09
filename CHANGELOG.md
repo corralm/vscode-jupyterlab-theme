@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "jupyterlab-light-theme" extension will be documented in this file.
 
+## [0.1.1] - 2022-09-09
+- feat: add support for unpacking args and cls param
+- feat: change status bar color to blue when no folder is open
+
 ## [0.1.0] - 2022-09-04
 - feat: make status bar foreground white when no is folder open to improve readability
 

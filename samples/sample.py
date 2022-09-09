@@ -28,6 +28,27 @@ p1 = Person('Iris', 25)
 print(p1.name)
 print(p1.age)
 
+# data class
+from dataclasses import dataclass
+
+@dataclass
+class Card:
+    summary: str = ''
+    owner: str = ''
+    state: str = "todo"
+    id: int = field(default=None, compare=True)
+
+    @classmethod
+    def from_dict(cls, d):
+        return Card(**d)
+
+# named tuple
+from collections import namedtuple
+
+Point = namedtuple('Point', 'x y')
+pt1 = Point(1.0, 5.0)
+pt2 = Point(2.5, 1.5)
+
 thisdict = {
   "country": "brazil",
   "year": 2022,
